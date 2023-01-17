@@ -1,0 +1,16 @@
+Estudar:
+
+Docker
+Kubernetes
+CI/CD
+.Net core
+RabbitMQ
+Micro services,
+Macoratti na Udemy de docker e .net core
+Azure devops
+.NET Core
+Docker
+CI/CD
+Dapper
+
+https://www.linkedin.com/jobs/view/1939548295/
